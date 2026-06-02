@@ -16,6 +16,6 @@ public class Cube1 {
     }
 
     public double getSurfaceArea() {
-        return 4 * Math.pow(this.side, 2);
+        return 6 * Math.pow(this.side, 2);
     }
 }
